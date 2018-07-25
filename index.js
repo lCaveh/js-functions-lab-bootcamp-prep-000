@@ -7,6 +7,6 @@ Function happyHolidaysTo(name) {
 Function happyHolidayTo(holiday, name) {
   return `Happy ${holiday}, ${name}!`
 }
-Function holidayCountdown (days, holiday) {
+Function holidayCountdown (holiday, days) {
   return `It's ${days} days until ${holiday}!`
 }
