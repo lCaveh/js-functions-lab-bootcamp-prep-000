@@ -1,5 +1,5 @@
 Function happyHolidays() {
-  return "HAppy holidays!"
+  return "Happy holidays!"
 }
 Function happyHolidaysTo(name) {
   return `Happy holidays, ${name}!`
